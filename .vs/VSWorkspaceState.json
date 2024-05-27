@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\course",
+    "\\course\\src",
+    "\\course\\src\\main",
+    "\\course\\src\\main\\java",
+    "\\course\\src\\main\\java\\com",
+    "\\course\\src\\main\\java\\com\\example",
+    "\\course\\src\\main\\java\\com\\example\\course",
+    "\\course\\src\\main\\java\\com\\example\\course\\controller"
+  ],
+  "SelectedNode": "\\course\\src\\main\\java\\com\\example\\course\\controller\\AuthController.java",
+  "PreviewInSolutionExplorer": false
+}
